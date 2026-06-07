@@ -1,6 +1,3 @@
-# 🌏 ViVuViệtNam – Cổng thông tin du lịch Việt Nam
-
-**ViVuViệtNam** là dự án đồ án môn Kỹ Thuật Phần Mềm, với mục tiêu xây dựng một website hỗ trợ du lịch Việt Nam, giúp người dùng khám phá, lên lịch trình và chia sẻ trải nghiệm du lịch.
 
 ## 🚀 Giới thiệu
 
