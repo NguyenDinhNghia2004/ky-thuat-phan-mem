@@ -43,9 +43,3 @@ ViVuVietNam/
 └── README.md
 
 
-## 👨‍💻 Thành viên nhóm
-
-- Dương Thiện Hùng
-- Lữ Trung Anh
-- Phạm Gia Bách
-- Phùng Thị Hạ Lam
